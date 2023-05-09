@@ -1,5 +1,5 @@
 resource "random_string" "launch_id" {
-  length  = 4
+  length  = 5
   special = false
   upper   = false
 }
